@@ -37,7 +37,7 @@ origin  https://github.com/KIMDONGHYEON003/project-test.git (push)
 ## 3. push
 
 ```bash
-$ git push orgin master
+$ git push origin master
 
 ```
 
