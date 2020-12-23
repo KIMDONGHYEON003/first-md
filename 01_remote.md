@@ -41,4 +41,4 @@ $ git push origin master
 
 ```
 
-* orgin 저장소의 master 브랜치로 push
+* origin 저장소의 master 브랜치로 push
